@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00462A&height=200&section=header&text=ESAA%202024-1%20YB&fontColor=EFEFEF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00462A&height=200&section=header&text=ESAA%202024-2%20OB&fontColor=EFEFEF" />
 
 # 🌱ESAA 2024-2 OB 활동 정리 레포지토리🌱
 
@@ -9,10 +9,10 @@
 <br/>
 
 ## 📉 Online_Quiz
-금요일 세션 퀴즈 풀이 
+비대면 세션 퀴즈 풀이 
 <br/> 
 
-## 📊 Project
+## 🤝 Project
 OB 3조 팀프로젝트 모음 <br/>
 PROJECT1 [회귀 프로젝트 바로가기]() <br/>
 PROJECT2 [프로젝트 바로가기]() <br/>
